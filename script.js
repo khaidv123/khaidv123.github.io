@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
         home: `
             <div class="fade-in">
                 <div class="heading">Notepad with AI</div>
-                <p>Introducing Notepad with AI, a cutting-edge text editor powered by advanced AI technology. Enhance your productivity with features such as intelligent spell check, language translation, and seamless integration with GPT-4 for an unparalleled note-taking experience.</p>
+                <p>The "Notepad with AI" project: revolutionizing note-taking in the digital era. This innovative tool combines traditional note-taking with advanced AI capabilities to enhance productivity and efficiency. With intelligent note categorization, natural language processing for easy input, and smart search functionality, finding and organizing notes has never been easier. The notepad learns from user behavior to offer personalized insights and recommendations, ensuring a seamless and tailored experience. Compatible across devices, it syncs effortlessly, keeping notes accessible anytime, anywhere. Say hello to a more organized, efficient, and personalized note-taking experience with the "Notepad with AI."</p>
                 <div class="image-gallery">
                     <img src="screenshot1.png" alt="Screenshot 1" class="gallery-item"><br>
                     <img src="screenshot2.png" alt="Screenshot 2" class="gallery-item">
